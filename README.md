@@ -2,4 +2,4 @@ This project is a Nutrition Recommender System built using Python and Streamlit.
 
 The application processes nutrition data from the USDA and applies sorting logic to recommend the top foods that best match the selected goal. The interface is user-friendly and includes visual charts to enhance understanding.
 
-This tool is useful for individuals who are looking to improve their diet, meet specific nutritional goals, or make healthier food choices with the help of data.
+This tool is useful for individuals who are looking to improve their diet, meet specific nutritional goals, or make healthier food choices with the help of data handling.
